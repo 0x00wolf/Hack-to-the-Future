@@ -1,9 +1,18 @@
 # Hack to the Future
 
-!(b-side header)(!imgs/header.png)
-
+![b-side header](imgs/header.png)
 
 This repository contains information for the Hack to the Future hackathon. Keep calm and hack on!
+
+## Index
+
+1) [Schedule](#schedule)
+2) [Evaluation Criteria](#evaluation-criteria)
+3) [Thanks to](#thanks-to)
+
+## Schedule
+
+![schedule](imgs/schedule.png)
 
 ## Evaluation Criteria
 
@@ -31,3 +40,9 @@ We will be running the hackathon problem statement through Claude, DeepSeek, and
 ### How Scoring Works
 
 - **Base Score:** Each category is scored 1-10, then multiplied by its weight (e.g., Innovation score of 8 = 36 points toward the total).
+
+---
+
+## Thanks to:
+
+tbc
