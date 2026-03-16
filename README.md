@@ -7,12 +7,28 @@ This repository contains information for the Hack to the Future hackathon. Keep 
 ## Index
 
 1) [Schedule](#schedule)
-2) [Evaluation Criteria](#evaluation-criteria)
-3) [Thanks to](#thanks-to)
+2) [Problem Statement](#problem-statement)
+3) [Score Card](#score-card)
+4) [Evaluation Criteria](#evaluation-criteria)
+5) [Thanks to](#thanks-to)
+
+---
 
 ## Schedule
 
 ![schedule](imgs/schedule.png)
+
+---
+
+## Problem Statement
+
+### TBA!
+
+---
+
+## Score Card
+
+![score-card](imgs/scorecard.png)
 
 ## Evaluation Criteria
 
