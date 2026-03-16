@@ -2,7 +2,9 @@
 
 ![b-side header](imgs/header.png)
 
-This repository contains information for the Hack to the Future hackathon. Keep calm and hack on!
+Welcome to the official repo for the Hack to the Future hackathon, organized by the Dalhousie Hackers Society. Find all the information required to pariticipate (or judge the event) below. We are very excited to be hosting our society's first major hackathon & hope it to be the first of many. 
+
+Keep calm and hack on!
 
 ## Index
 
