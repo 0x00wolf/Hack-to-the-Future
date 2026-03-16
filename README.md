@@ -1,6 +1,6 @@
 # Hack to the Future
 
-!(b-side header)(!./imgs/header.png)
+!(b-side header)(!imgs/header.png)
 
 
 This repository contains information for the Hack to the Future hackathon. Keep calm and hack on!
