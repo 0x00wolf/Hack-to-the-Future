@@ -56,7 +56,7 @@ Your solution should accomplish any or all of the following:
 
 Participants will upload the slides for their presentation to the following link by 3PM: 
 
-COMING SOON
+![submissions](imgs/submission.png)
 
 ---
 
