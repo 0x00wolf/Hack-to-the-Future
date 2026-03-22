@@ -54,7 +54,7 @@ Your solution should accomplish any or all of the following:
 
 ## Submissions
 
-Participants will upload the slides for their presentation to the following link (by 3:00PM): 
+Participants will upload the slides for their presentation to the following link by 3PM: 
 
 COMING SOON
 
