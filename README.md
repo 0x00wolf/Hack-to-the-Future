@@ -24,7 +24,30 @@ Keep calm and hack on!
 
 ## Problem Statement
 
-### TBA!
+### The Question: 
+
+How can technology shape a future where productivity and well-being go hand in hand? 
+
+### The Challenge:
+
+We challenge you to build an innovative solution that helps university students and/or early professionals succeed academically, or in their careers, without sacrificing their mental or physical health. 
+
+Your team must address a real-world challenge related to healthy living or educational/career excellence. We are looking for tools that empower users to stop choosing between success and sanity, and instead, leverage technology to achieve both. 
+
+### Key Focus Areas:
+
+Your solution should accomplish any or all of the following: 
+
+- demonstrate how technology can support smarter decision-making, 
+- improve daily habits, 
+- or create more balanced, efficient, and fulfilling lifestyles. 
+
+### Consider focusing on: 
+
+- **Wellness & Balance:** Tools that prevent burnout, encourage mindfulness, or promote healthy habits amidst a busy schedule. 
+- **Organization & Focus:** Solutions that reduce cognitive load, streamline workflows, or help users master their time. 
+- **Career Readiness & Growth:** Platforms that guide professional development, skill-building, or networking in a sustainable way. 
+- **Academic Excellence:** Resources that make learning more effective, engaging, or less stressful.
 
 ---
 
