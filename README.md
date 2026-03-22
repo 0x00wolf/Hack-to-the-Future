@@ -56,6 +56,10 @@ Your solution should accomplish any or all of the following:
 
 Participants will upload the slides for their presentation to the following link by 3PM: 
 
+**https://forms.gle/BvjCk1d8KJTt46h18**
+
+### QR Code (Same as link above)
+
 ![submissions](imgs/submission.png)
 
 ---
