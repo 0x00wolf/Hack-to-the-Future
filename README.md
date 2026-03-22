@@ -10,9 +10,10 @@ Keep calm and hack on!
 
 1) [Schedule](#schedule)
 2) [Problem Statement](#problem-statement)
-3) [Score Card](#score-card)
-4) [Evaluation Criteria](#evaluation-criteria)
-5) [Thanks to](#thanks-to)
+3) [Submissions](#submissions)
+4) [Score Card](#score-card)
+5) [Evaluation Criteria](#evaluation-criteria)
+6) [Thanks to](#thanks-to)
 
 ---
 
@@ -48,6 +49,14 @@ Your solution should accomplish any or all of the following:
 - **Organization & Focus:** Solutions that reduce cognitive load, streamline workflows, or help users master their time. 
 - **Career Readiness & Growth:** Platforms that guide professional development, skill-building, or networking in a sustainable way. 
 - **Academic Excellence:** Resources that make learning more effective, engaging, or less stressful.
+
+---
+
+## Submissions
+
+Participants will upload the slides for their presentation to the following link (by 3:00PM): 
+
+COMING SOON
 
 ---
 
